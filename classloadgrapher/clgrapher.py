@@ -98,10 +98,9 @@ class ClassloadGrapher:
             type=str,
             metavar="destination_file")
         parser.add_argument(
-            '-a',
-            dest="abrv",
-            help="Abbreviate e.g. java.lang. -> j.l.",
-            type=bool)
+            '-abrv',
+            action='store_true',
+            help="Abbreviate e.g. java.lang. -> j.l.")
         parser.add_argument(
             '-f',
             dest="filter",
