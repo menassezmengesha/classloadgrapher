@@ -4,12 +4,12 @@
 from __future__ import division, print_function, absolute_import
 from graphviz import Digraph
 
+from classloadgrapher import __version__
+from classloadgrapher import template
+
 import argparse
 import sys
 import logging
-import template
-
-from classloadgrapher import __version__
 
 
 class ClassloadGrapher:
@@ -138,6 +138,10 @@ class ClassloadGrapher:
 
     def __init__(self):
         self.run()
+
+
+def run():
+    ClassloadGrapher()
 
 
 if __name__ == "__main__":
