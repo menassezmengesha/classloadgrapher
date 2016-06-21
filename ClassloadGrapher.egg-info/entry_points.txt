@@ -1,0 +1,3 @@
+[console_scripts]
+clgrapher = classloadgrapher.clgrapher:run
+
