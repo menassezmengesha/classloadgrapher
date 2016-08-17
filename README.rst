@@ -16,5 +16,6 @@ To run:
 
 
 And in the same folder you should find a pdf file: ~/MyClassTraceFile.digraph.pdf
+
 A sample screenshot is provided in this repo.
 
