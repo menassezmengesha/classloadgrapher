@@ -22,3 +22,9 @@ And in the same folder you should find a pdf file: ~/MyClassTraceFile.digraph.pd
 
 _____
 
+==============
+Sample output:
+==============
+
+
+.. image:: https://github.com/mzmengesha/ClassLoadGrapher/blob/master/Sample-Screenshot.png
