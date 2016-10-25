@@ -1,5 +1,5 @@
-![Build]
-(https://travis-ci.org/mzmengesha/ClassLoadGrapher.svg?branch=master)
+.. image:: https://travis-ci.org/mzmengesha/ClassLoadGrapher.svg?branch=master
+
 
 ================
 ClassloadGrapher
@@ -21,3 +21,4 @@ To run:
 And in the same folder you should find a pdf file: ~/MyClassTraceFile.digraph.pdf
 
 _____
+
