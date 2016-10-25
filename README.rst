@@ -1,3 +1,6 @@
+![Build]
+(https://travis-ci.org/mzmengesha/ClassLoadGrapher.svg?branch=master)
+
 ================
 ClassloadGrapher
 ================
