@@ -2,4 +2,6 @@
 Developers
 ==========
 
-* mzm
+* mzmengesha
+* ronsureshi
+* ralphm
