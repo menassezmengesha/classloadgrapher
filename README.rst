@@ -5,8 +5,8 @@
 ClassloadGrapher
 ================
 
-Is your Java program's startup too slow? have you wondered what classes are in your permgen/metaspace and which class was loaded which?
-Well then, this tool can help provide some of the answers. It makes a graph of the class loading hierarchy. 
+Is your Java program's startup too slow? have you wondered what classes are in your permgen/metaspace?
+Well then, this tool can help provide the answer. It generates a tree of your application's class hierarchy. 
 
 
 =======
@@ -18,7 +18,7 @@ To run:
 % python classloadgrapher/clgrapher.py ~/MyClassTraceFile.txt ~/MyClassTraceFile.digraph
 
 
-And in the same folder you should find a pdf file: ~/MyClassTraceFile.digraph.pdf
+And in the same folder you will find a pdf file: ~/MyClassTraceFile.digraph.pdf
 
 _____
 
@@ -27,4 +27,4 @@ Sample output:
 ==============
 
 
-.. image:: https://github.com/mzmengesha/ClassLoadGrapher/blob/master/Sample-Screenshot.png
+.. image:: https://github.com/menzew/ClassLoadGrapher/blob/master/Sample-Screenshot.png
