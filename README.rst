@@ -20,6 +20,7 @@ And in the same folder you will find a pdf file: ~/MyClassTraceFile.digraph.pdf
 _____
 _____
 _____
+_____
 
 ==============
 Sample output:
