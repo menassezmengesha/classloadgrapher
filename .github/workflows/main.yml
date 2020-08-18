@@ -16,5 +16,5 @@ jobs:
     - name: Run a trufflehog scan
       uses: menzew/daction@main
       with:
-        scanArguments: "--regex --entropy=True --max_depth=35 --rules /regexes.json" # Add custom options here*
+        scanArguments: "--regex --entropy=False --max_depth=35 --rules /regexes.json" # Add custom options here*
  
